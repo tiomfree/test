@@ -4,6 +4,14 @@ CNA 新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebb
 ABC News Live,https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
 
+港澳台,#genre#
+凤凰中文「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+
 央视,#genre#
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3$IPV6
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3$IPV6
@@ -71,10 +79,3 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-港澳台,#genre#
-凤凰中文「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
