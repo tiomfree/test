@@ -1,3 +1,29 @@
+港澳台,#genre#
+中天新闻 YT,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+凤凰资讯 YT,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+凤凰中文 YT,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+东森财经新闻 YT,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+三立INEWS YT,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+东森电影,http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MEDE1688528216885282&ct=19193&tsum=843fbd698e260c1fcda128dce85ead3b
+
+国际,#genre#
+CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+CNA 新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+NBC news YT,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+ABC News Live,https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
+NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+CNN News,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+BBC,https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
+BBC World News,http://50.7.238.114:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
+BBC 1,http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+BBC 2,http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+
 Sports,#genre#
 Astro SUPERSPORT,https://sc2024.stream-link.org/live/45678414.php?id=s25pc
 Astro SUPERSPORT 2,https://sc2024.stream-link.org/live/45678414.php?id=s19bq
@@ -5,18 +31,3 @@ Astro SUPERSPORT 4,https://sc2024.stream-link.org/live/45678414.php?id=s65jw
 nowSportsPrime,https://sc2024.stream-link.org/live/45678414.php?id=s22qs
 Sky Sports Main Event,https://sc2024.stream-link.org/live/45678414.php?id=s81fz
 vidio英超,https://sc2024.stream-link.org/live/45678414.php?id=s69jc
-
-国际,#genre#
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-CNA 新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-ABC News Live,https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fdwnvbyln7gak-ssai-prd/ABCNewsLive_Disney.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
-CNN News,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-BBC,https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
-凤凰资讯,https://sc2024.stream-link.org/live/45678414.php?id=h18zd
-凤凰中文,https://sc2024.stream-link.org/live/45678414.php?id=h37kr
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-
