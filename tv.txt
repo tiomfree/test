@@ -1,8 +1,8 @@
 港澳台,#genre#
 凤凰中文「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,https://sc2024.stream-link.org/live/45678414.php?id=h18zd
-凤凰中文,https://sc2024.stream-link.org/live/45678414.php?id=h37kr
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
