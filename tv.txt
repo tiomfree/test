@@ -1,3 +1,9 @@
+Sports,#genre#
+nowSportsPrime,https://sc2024.stream-link.org/live/45678414.php?id=s22qs
+Sky Sports Main Event,https://sc2024.stream-link.org/live/45678414.php?id=s81fz
+vidio英超,https://sc2024.stream-link.org/live/45678414.php?id=s69jc
+Astro SUPERSPORT,https://sc2024.stream-link.org/live/45678414.php?id=s25pc
+
 港澳台,#genre#
 凤凰中文「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
