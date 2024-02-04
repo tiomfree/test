@@ -13,8 +13,8 @@ ABC News Live,https://d2fewflvrapcwe.cloudfront.net/v1/master/3722c60a815c199d9c
 Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
 CNN News,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 BBC,https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
-凤凰中文「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰资讯「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯,https://sc2024.stream-link.org/live/45678414.php?id=h18zd
+凤凰中文,https://sc2024.stream-link.org/live/45678414.php?id=h37kr
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 
