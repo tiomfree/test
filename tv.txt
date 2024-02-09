@@ -1,3 +1,8 @@
+
+央视,#genre#
+CCTV4K-HLG GuDou,http://1.14.131.61:5678/gd4k.php
+CCTV4K-HLG,http://1.14.131.61:5828/cctv4k.php
+
 港澳台,#genre#
 中天新闻 YT,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 凤凰资讯 YT,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
