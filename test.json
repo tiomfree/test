@@ -6,7 +6,7 @@
     },
     {
       "name": "TXT",
-      "url": "https://raw.githubusercontent.com/tiomfree/test/main/liveTV.txt",
+      "url": "https://raw.githubusercontent.com/tiomfree/test/main/tv.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
