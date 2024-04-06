@@ -1,6 +1,6 @@
 
 央视,#genre#
-CCTV13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+CCTV13 新闻,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 
 港澳台,#genre#
 中天新闻 YT,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
