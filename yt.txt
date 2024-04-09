@@ -1,90 +1,80 @@
 Youtube TV, #genre#
-01,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-02,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-03,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-04,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-05,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-06,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-07,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-08,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-09,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-10,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-11,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-12,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+01 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+02 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+03 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+04 MO一台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+05 MO二台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+06 EF运通,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+07 信大台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+08 DW news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+09 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+10 India news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+11 India news2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+12 华视CIS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 13,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-14,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-15,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-16,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-17,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-18,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-19,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-20,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-21,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-22,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-23,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-25,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-26,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-27,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-28,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+14 India news3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+15 ANN news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+16 The K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+17 民视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+18 东森购物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+19 东森购物2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+20 CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+21 HABER TURK,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+22 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+23 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+24 ABC News live,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+25 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+26 华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+27 Astro AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+28 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 29,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-30,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-21,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-22,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-23,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-25,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-26,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-27,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-28,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-29,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-30,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-31,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-32,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-33,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-34,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-35,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-36,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+30 大爱台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+31 TVB news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+32 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+33 GBNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+34 中视HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+35 Sky News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+36 India Today,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
 37,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-38,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-39,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-40,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-41,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-42,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-43,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-44,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-45,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-46,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-47,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-48,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-49,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-50,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-51,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-52,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-53,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-54,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-55,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-56,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-57,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-58,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-59,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-60,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-61,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-62,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-63,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-64,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-65,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-66,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-67,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-68,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-69,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-70,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-71,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-72,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+38 France 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+39 NBC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+40 India News3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+41 寰宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+42 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+43 凤凰新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+44 India Media One,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+45 TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+46 News Tamil,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+47 大爱2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+48 ANN News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+49 中天新闻2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+50 印尼news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+51 Korea Arirang news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+52 CNA news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+53 Japan HTB news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+54 Viva 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+55 Viva 2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+56 TW 国会频道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+57 TW 国会频道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+58 123 Golive,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+59 Aljazeera,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+60 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+61 Korea KBS news,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+62 Japan news?,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+63 TW 少儿,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+64 TW 少儿,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+65 TW 少儿,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+66 TW 少儿,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+67 TW 少儿,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+68 TW 少儿,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+69 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+70 镜新闻 MNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+71 中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+72 CRUX,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
 73,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
-74,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+74 TW Times now,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
 75,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
-76,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-77,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
-78,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+76 TW 电视剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+77 HOKO REBorn,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+78 Taiwan Plus,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
