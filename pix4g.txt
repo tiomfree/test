@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,livednow.com
+DOMAIN-SUFFIX,wx.sb
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-SUFFIX,orz-7.com
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,thetvapp.to
+DOMAIN-SUFFIX,mypikpak.com
+IP-CIDR,13.112.0.0/14,no-resolve
