@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-APP APTV
-#EXTINF:-1 ,daddy
+#EXTINF:-1 ,test
 https://zekonew.iosplayer.ru/zeko/premium425/mono.m3u8
+#EXTINF:-1 ,Sky Sports Golf UK
+https://windnew.iosplayer.ru/wind/premium70/mono.m3u8
