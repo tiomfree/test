@@ -8,3 +8,5 @@ http://192.168.51.254:5006/stream/test/cnn/master.m3u8
 http://192.168.51.254:5006/stream/test/bbc/master.m3u8
 #EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="新聞財經",Bloomberg TV
 http://192.168.51.254:5006/stream/test/bloomberg/master.m3u8
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球一台" tvg-logo="https://assets.livednow.com/logo/博斯高球台.png" group-title="體育",博斯高球一台
+http://192.168.51.254:5006/stream/test/bosigolf1/master.m3u8
