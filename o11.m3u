@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="4gtv-4gtv009" tvg-name="中天新聞台" tvg-logo="https://assets.livednow.com/logo/中天新聞台.png" group-title="新聞", 中天新聞台
+http://192.168.51.254:5006/stream/test/zhongtian/master.m3u8
+#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="新聞財經",CNN 國際新聞台
+http://192.168.51.254:5006/stream/test/cnn/master.m3u8
+#EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC NEWS" tvg-logo="https://assets.livednow.com/logo/BBC-News.png" group-title="新聞財經",BBC NEWS
+http://192.168.51.254:5006/stream/test/bbc/master.m3u8
+#EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://assets.livednow.com/logo/BloombergTV.png" group-title="新聞財經",Bloomberg TV
+http://192.168.51.254:5006/stream/test/bloomberg/master.m3u8
