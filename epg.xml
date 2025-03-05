@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv generator-info-name="EPG Generator">
+<tv date="20250305161549 +0800" generator-info-name="EPG Generator">
   <channel id="369234">
     <display-name>BBC News</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154043536929_80.jpg"/>
