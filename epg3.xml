@@ -1,141 +1,142 @@
+
 <tv date="20250305223647 +0800">
-  <channel id="370178">
+  <channel id="BloombergTV">
     <display-name lang="zh">BloombergTV</display-name>
     <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png"/>
   </channel>
-  <programme channel="370178" start="20250305010000 +0000" stop="20250305020000 +0000">
+  <programme channel="BloombergTV" start="20250305010000 +0000" stop="20250305020000 +0000">
     <title lang="zh">Balance of Power: Special Coverage ahead of President Trumps Address(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305020000 +0000" stop="20250305040000 +0000">
+  <programme channel="BloombergTV" start="20250305020000 +0000" stop="20250305040000 +0000">
     <title lang="zh">President Donald Trumps Joint Address to Congress(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305040000 +0000" stop="20250305060000 +0000">
+  <programme channel="BloombergTV" start="20250305040000 +0000" stop="20250305060000 +0000">
     <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305060000 +0000" stop="20250305070000 +0000">
+  <programme channel="BloombergTV" start="20250305060000 +0000" stop="20250305070000 +0000">
     <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305070000 +0000" stop="20250305090000 +0000">
+  <programme channel="BloombergTV" start="20250305070000 +0000" stop="20250305090000 +0000">
     <title lang="zh">Bloomberg: The Opening Trade(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305090000 +0000" stop="20250305100000 +0000">
+  <programme channel="BloombergTV" start="20250305090000 +0000" stop="20250305100000 +0000">
     <title lang="zh">The Pulse with Francine Lacqua(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305100000 +0000" stop="20250305110000 +0000">
+  <programme channel="BloombergTV" start="20250305100000 +0000" stop="20250305110000 +0000">
     <title lang="zh">Bloomberg Brief(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305110000 +0000" stop="20250305140000 +0000">
+  <programme channel="BloombergTV" start="20250305110000 +0000" stop="20250305140000 +0000">
     <title lang="zh">Bloomberg Surveillance(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305140000 +0000" stop="20250305160000 +0000">
+  <programme channel="BloombergTV" start="20250305140000 +0000" stop="20250305160000 +0000">
     <title lang="zh">Bloomberg Open Interest(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305160000 +0000" stop="20250305170000 +0000">
+  <programme channel="BloombergTV" start="20250305160000 +0000" stop="20250305170000 +0000">
     <title lang="zh">Bloomberg Technology(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305170000 +0000" stop="20250305180000 +0000">
+  <programme channel="BloombergTV" start="20250305170000 +0000" stop="20250305180000 +0000">
     <title lang="zh">Bloomberg Markets(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305180000 +0000" stop="20250305190000 +0000">
+  <programme channel="BloombergTV" start="20250305180000 +0000" stop="20250305190000 +0000">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305190000 +0000" stop="20250305200000 +0000">
+  <programme channel="BloombergTV" start="20250305190000 +0000" stop="20250305200000 +0000">
     <title lang="zh">Bloomberg BusinessWeek(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305200000 +0000" stop="20250305220000 +0000">
+  <programme channel="BloombergTV" start="20250305200000 +0000" stop="20250305220000 +0000">
     <title lang="zh">Bloomberg The Close(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305220000 +0000" stop="20250305230000 +0000">
+  <programme channel="BloombergTV" start="20250305220000 +0000" stop="20250305230000 +0000">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250305230000 +0000" stop="20250306010000 +0000">
+  <programme channel="BloombergTV" start="20250305230000 +0000" stop="20250306010000 +0000">
     <title lang="zh">Bloomberg The Asia Trade(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370178" start="20250306010000 +0000" stop="20250306030000 +0000">
+  <programme channel="BloombergTV" start="20250306010000 +0000" stop="20250306030000 +0000">
     <title lang="zh">Bloomberg: The China Show(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306030000 +0000" stop="20250306040000 +0000">
+  <programme channel="BloombergTV" start="20250306030000 +0000" stop="20250306040000 +0000">
     <title lang="zh">Insight with Haslinda Amin(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306040000 +0000" stop="20250306060000 +0000">
+  <programme channel="BloombergTV" start="20250306040000 +0000" stop="20250306060000 +0000">
     <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306060000 +0000" stop="20250306070000 +0000">
+  <programme channel="BloombergTV" start="20250306060000 +0000" stop="20250306070000 +0000">
     <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306070000 +0000" stop="20250306090000 +0000">
+  <programme channel="BloombergTV" start="20250306070000 +0000" stop="20250306090000 +0000">
     <title lang="zh">Bloomberg: The Opening Trade(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306090000 +0000" stop="20250306100000 +0000">
+  <programme channel="BloombergTV" start="20250306090000 +0000" stop="20250306100000 +0000">
     <title lang="zh">The Pulse with Francine Lacqua(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306100000 +0000" stop="20250306110000 +0000">
+  <programme channel="BloombergTV" start="20250306100000 +0000" stop="20250306110000 +0000">
     <title lang="zh">Bloomberg Brief(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306110000 +0000" stop="20250306113000 +0000">
+  <programme channel="BloombergTV" start="20250306110000 +0000" stop="20250306113000 +0000">
     <title lang="zh">The David Rubenstein Show(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306113000 +0000" stop="20250306120000 +0000">
+  <programme channel="BloombergTV" start="20250306113000 +0000" stop="20250306120000 +0000">
     <title lang="zh">Davos 2025: Risks and Opportunities(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306120000 +0000" stop="20250306140000 +0000">
+  <programme channel="BloombergTV" start="20250306120000 +0000" stop="20250306140000 +0000">
     <title lang="zh">Bloomberg Surveillance(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306140000 +0000" stop="20250306160000 +0000">
+  <programme channel="BloombergTV" start="20250306140000 +0000" stop="20250306160000 +0000">
     <title lang="zh">Bloomberg Open Interest(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306160000 +0000" stop="20250306170000 +0000">
+  <programme channel="BloombergTV" start="20250306160000 +0000" stop="20250306170000 +0000">
     <title lang="zh">Bloomberg Technology(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306170000 +0000" stop="20250306180000 +0000">
+  <programme channel="BloombergTV" start="20250306170000 +0000" stop="20250306180000 +0000">
     <title lang="zh">Bloomberg Markets(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306180000 +0000" stop="20250306190000 +0000">
+  <programme channel="BloombergTV" start="20250306180000 +0000" stop="20250306190000 +0000">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306190000 +0000" stop="20250306200000 +0000">
+  <programme channel="BloombergTV" start="20250306190000 +0000" stop="20250306200000 +0000">
     <title lang="zh">Bloomberg BusinessWeek(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306200000 +0000" stop="20250306220000 +0000">
+  <programme channel="BloombergTV" start="20250306200000 +0000" stop="20250306220000 +0000">
     <title lang="zh">Bloomberg The Close(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306220000 +0000" stop="20250306230000 +0000">
+  <programme channel="BloombergTV" start="20250306220000 +0000" stop="20250306230000 +0000">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370178" start="20250306230000 +0000" stop="20250307000000 +0000">
+  <programme channel="BloombergTV" start="20250306230000 +0000" stop="20250307000000 +0000">
     <title lang="zh">Bloomberg The Asia Trade(普)</title>
     <date>2025-03-06</date>
   </programme>
