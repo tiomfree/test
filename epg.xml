@@ -1,6 +1,6 @@
 <tv date="20250305161549 +0800">
   <channel id="370177">
-    <display-name lang="zh">中天新聞台</display-name>
+    <display-name lang="zh">中天新闻</display-name>
   </channel>
   <programme start="20250305000000 +0000" stop="20250305010000 +0000" channel="370177">
     <title lang="zh">0800中天晨報</title>
