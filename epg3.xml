@@ -1,203 +1,143 @@
-
-<tv date="20250305222505 +0800">
-  <channel id="370177">
-    <display-name lang="zh">中天新聞台</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png"/>
+<?xml version="1.0" ?>
+<tv date="20250305223647 +0800">
+  <channel id="370178">
+    <display-name lang="zh">Bloomberg TV</display-name>
+    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png"/>
   </channel>
-  <programme channel="370177" start="20250305000000 +0000" stop="20250305010000 +0000">
-    <title lang="zh">0800中天晨報</title>
+  <programme channel="370178" start="20250305010000 +0000" stop="20250305020000 +0000">
+    <title lang="zh">Balance of Power: Special Coverage ahead of President Trumps Address(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305010000 +0000" stop="20250305020000 +0000">
-    <title lang="zh">0900中天新聞</title>
+  <programme channel="370178" start="20250305020000 +0000" stop="20250305040000 +0000">
+    <title lang="zh">President Donald Trumps Joint Address to Congress(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305020000 +0000" stop="20250305030000 +0000">
-    <title lang="zh">1000中天新聞</title>
+  <programme channel="370178" start="20250305040000 +0000" stop="20250305060000 +0000">
+    <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305030000 +0000" stop="20250305040000 +0000">
-    <title lang="zh">1100中天新聞</title>
+  <programme channel="370178" start="20250305060000 +0000" stop="20250305070000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305040000 +0000" stop="20250305050000 +0000">
-    <title lang="zh">1200午間新聞</title>
+  <programme channel="370178" start="20250305070000 +0000" stop="20250305090000 +0000">
+    <title lang="zh">Bloomberg: The Opening Trade(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305050000 +0000" stop="20250305060000 +0000">
-    <title lang="zh">1300午間新聞</title>
+  <programme channel="370178" start="20250305090000 +0000" stop="20250305100000 +0000">
+    <title lang="zh">The Pulse with Francine Lacqua(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305060000 +0000" stop="20250305070000 +0000">
-    <title lang="zh">1400大新聞大爆卦</title>
+  <programme channel="370178" start="20250305100000 +0000" stop="20250305110000 +0000">
+    <title lang="zh">Bloomberg Brief(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305070000 +0000" stop="20250305080000 +0000">
-    <title lang="zh">1500大新聞大爆卦</title>
+  <programme channel="370178" start="20250305110000 +0000" stop="20250305140000 +0000">
+    <title lang="zh">Bloomberg Surveillance(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305080000 +0000" stop="20250305090000 +0000">
-    <title lang="zh">1600中天新聞</title>
+  <programme channel="370178" start="20250305140000 +0000" stop="20250305160000 +0000">
+    <title lang="zh">Bloomberg Open Interest(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305090000 +0000" stop="20250305100000 +0000">
-    <title lang="zh">1700中天新聞</title>
+  <programme channel="370178" start="20250305160000 +0000" stop="20250305170000 +0000">
+    <title lang="zh">Bloomberg Technology(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305100000 +0000" stop="20250305110000 +0000">
-    <title lang="zh">中天辣晚報</title>
+  <programme channel="370178" start="20250305170000 +0000" stop="20250305180000 +0000">
+    <title lang="zh">Bloomberg Markets(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305110000 +0000" stop="20250305120000 +0000">
-    <title lang="zh">中天辣晚報</title>
+  <programme channel="370178" start="20250305180000 +0000" stop="20250305190000 +0000">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305120000 +0000" stop="20250305130000 +0000">
-    <title lang="zh">頭條開講</title>
+  <programme channel="370178" start="20250305190000 +0000" stop="20250305200000 +0000">
+    <title lang="zh">Bloomberg BusinessWeek(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305130000 +0000" stop="20250305140000 +0000">
-    <title lang="zh">頭條開講</title>
+  <programme channel="370178" start="20250305200000 +0000" stop="20250305220000 +0000">
+    <title lang="zh">Bloomberg The Close(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305140000 +0000" stop="20250305150000 +0000">
-    <title lang="zh">中天SUPER夜線新聞</title>
+  <programme channel="370178" start="20250305220000 +0000" stop="20250305230000 +0000">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305150000 +0000" stop="20250305160000 +0000">
-    <title lang="zh">全球大視野</title>
+  <programme channel="370178" start="20250305230000 +0000" stop="20250306010000 +0000">
+    <title lang="zh">Bloomberg The Asia Trade(普)</title>
     <date>2025-03-05</date>
   </programme>
-  <programme channel="370177" start="20250305160000 +0000" stop="20250305170000 +0000">
-    <title lang="zh">中天辣晚報</title>
-    <date>2025-03-05</date>
-  </programme>
-  <programme channel="370177" start="20250305170000 +0000" stop="20250305180000 +0000">
-    <title lang="zh">中天辣晚報</title>
-    <date>2025-03-05</date>
-  </programme>
-  <programme channel="370177" start="20250305180000 +0000" stop="20250305190000 +0000">
-    <title lang="zh">頭條開講(重)</title>
-    <date>2025-03-05</date>
-  </programme>
-  <programme channel="370177" start="20250305190000 +0000" stop="20250305200000 +0000">
-    <title lang="zh">頭條開講(重)</title>
-    <date>2025-03-05</date>
-  </programme>
-  <programme channel="370177" start="20250305200000 +0000" stop="20250305210000 +0000">
-    <title lang="zh">中天SUPER夜線新聞</title>
-    <date>2025-03-05</date>
-  </programme>
-  <programme channel="370177" start="20250305210000 +0000" stop="20250305220000 +0000">
-    <title lang="zh">全球大視野(重)</title>
-    <date>2025-03-05</date>
-  </programme>
-  <programme channel="370177" start="20250305220000 +0000" stop="20250305230000 +0000">
-    <title lang="zh">0600中天晨報</title>
-    <date>2025-03-05</date>
-  </programme>
-  <programme channel="370177" start="20250305230000 +0000" stop="20250306000000 +0000">
-    <title lang="zh">0700中天晨報</title>
-    <date>2025-03-05</date>
-  </programme>
-  <programme channel="370177" start="20250306000000 +0000" stop="20250306010000 +0000">
-    <title lang="zh">0800中天晨報</title>
+  <programme channel="370178" start="20250306010000 +0000" stop="20250306030000 +0000">
+    <title lang="zh">Bloomberg: The China Show(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306010000 +0000" stop="20250306020000 +0000">
-    <title lang="zh">0900中天新聞</title>
+  <programme channel="370178" start="20250306030000 +0000" stop="20250306040000 +0000">
+    <title lang="zh">Insight with Haslinda Amin(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306020000 +0000" stop="20250306030000 +0000">
-    <title lang="zh">1000中天新聞</title>
+  <programme channel="370178" start="20250306040000 +0000" stop="20250306060000 +0000">
+    <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306030000 +0000" stop="20250306040000 +0000">
-    <title lang="zh">1100中天新聞</title>
+  <programme channel="370178" start="20250306060000 +0000" stop="20250306070000 +0000">
+    <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306040000 +0000" stop="20250306050000 +0000">
-    <title lang="zh">1200午間新聞</title>
+  <programme channel="370178" start="20250306070000 +0000" stop="20250306090000 +0000">
+    <title lang="zh">Bloomberg: The Opening Trade(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306050000 +0000" stop="20250306060000 +0000">
-    <title lang="zh">1300午間新聞</title>
+  <programme channel="370178" start="20250306090000 +0000" stop="20250306100000 +0000">
+    <title lang="zh">The Pulse with Francine Lacqua(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306060000 +0000" stop="20250306070000 +0000">
-    <title lang="zh">1400大新聞大爆卦</title>
+  <programme channel="370178" start="20250306100000 +0000" stop="20250306110000 +0000">
+    <title lang="zh">Bloomberg Brief(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306070000 +0000" stop="20250306080000 +0000">
-    <title lang="zh">1500大新聞大爆卦</title>
+  <programme channel="370178" start="20250306110000 +0000" stop="20250306113000 +0000">
+    <title lang="zh">The David Rubenstein Show(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306080000 +0000" stop="20250306090000 +0000">
-    <title lang="zh">1600中天新聞</title>
+  <programme channel="370178" start="20250306113000 +0000" stop="20250306120000 +0000">
+    <title lang="zh">Davos 2025: Risks and Opportunities(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306090000 +0000" stop="20250306100000 +0000">
-    <title lang="zh">1700中天新聞</title>
+  <programme channel="370178" start="20250306120000 +0000" stop="20250306140000 +0000">
+    <title lang="zh">Bloomberg Surveillance(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306100000 +0000" stop="20250306110000 +0000">
-    <title lang="zh">中天辣晚報</title>
+  <programme channel="370178" start="20250306140000 +0000" stop="20250306160000 +0000">
+    <title lang="zh">Bloomberg Open Interest(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306110000 +0000" stop="20250306120000 +0000">
-    <title lang="zh">中天辣晚報</title>
+  <programme channel="370178" start="20250306160000 +0000" stop="20250306170000 +0000">
+    <title lang="zh">Bloomberg Technology(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306120000 +0000" stop="20250306130000 +0000">
-    <title lang="zh">頭條開講</title>
+  <programme channel="370178" start="20250306170000 +0000" stop="20250306180000 +0000">
+    <title lang="zh">Bloomberg Markets(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306130000 +0000" stop="20250306140000 +0000">
-    <title lang="zh">頭條開講</title>
+  <programme channel="370178" start="20250306180000 +0000" stop="20250306190000 +0000">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306140000 +0000" stop="20250306150000 +0000">
-    <title lang="zh">中天SUPER夜線新聞</title>
+  <programme channel="370178" start="20250306190000 +0000" stop="20250306200000 +0000">
+    <title lang="zh">Bloomberg BusinessWeek(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306150000 +0000" stop="20250306160000 +0000">
-    <title lang="zh">全球大視野</title>
+  <programme channel="370178" start="20250306200000 +0000" stop="20250306220000 +0000">
+    <title lang="zh">Bloomberg The Close(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306160000 +0000" stop="20250306170000 +0000">
-    <title lang="zh">中天辣晚報</title>
+  <programme channel="370178" start="20250306220000 +0000" stop="20250306230000 +0000">
+    <title lang="zh">Bloomberg: Balance of Power(普)</title>
     <date>2025-03-06</date>
   </programme>
-  <programme channel="370177" start="20250306170000 +0000" stop="20250306180000 +0000">
-    <title lang="zh">中天辣晚報</title>
+  <programme channel="370178" start="20250306230000 +0000" stop="20250307000000 +0000">
+    <title lang="zh">Bloomberg The Asia Trade(普)</title>
     <date>2025-03-06</date>
-  </programme>
-  <programme channel="370177" start="20250306180000 +0000" stop="20250306190000 +0000">
-    <title lang="zh">頭條開講(重)</title>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="370177" start="20250306190000 +0000" stop="20250306200000 +0000">
-    <title lang="zh">頭條開講(重)</title>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="370177" start="20250306200000 +0000" stop="20250306210000 +0000">
-    <title lang="zh">中天SUPER夜線新聞</title>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="370177" start="20250306210000 +0000" stop="20250306220000 +0000">
-    <title lang="zh">全球大視野(重)</title>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="370177" start="20250306220000 +0000" stop="20250306230000 +0000">
-    <title lang="zh">0600中天晨報</title>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="370177" start="20250306230000 +0000" stop="20250307000000 +0000">
-    <title lang="zh">0700中天晨報</title>
-    <date>2025-03-06</date>
-  </programme>
-  <programme channel="370177" start="20250307000000 +0000" stop="20250307010000 +0000">
-    <title lang="zh">0800中天晨報</title>
-    <date>2025-03-07</date>
   </programme>
 </tv>
