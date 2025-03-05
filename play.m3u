@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tiomfree/test/refs/heads/main/epg.xml"
 
 #EXTINF:-1 tvg-id="369234" tvg-name="BBC News" tvg-logo="https://epg.pw/media/images/channel/2024/01/19/large/20240119213917610273_86.jpg" group-title="News",BBC News
