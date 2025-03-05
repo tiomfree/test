@@ -2,7 +2,7 @@
 <tv date="20250305202136 +0800">
   <channel id="370177">
     <display-name lang="zh">中天新聞台</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png"/>
+    
   </channel>
   <programme start="20250305000000 +0000" stop="20250305010000 +0000" channel="370177">
     <title lang="zh">0800中天晨報</title>
@@ -196,7 +196,7 @@
     <title lang="zh">0700中天晨報</title>
     <date>2025-03-06</date>
   </programme>
-  <programme start="20250307000000 +0000" stop="20250308000000 +0000" channel="370177">
+  <programme start="20250307000000 +0000" stop="20250307010000 +0000" channel="370177">
     <title lang="zh">0800中天晨報</title>
     <date>2025-03-07</date>
   </programme>
