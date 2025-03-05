@@ -2,7 +2,6 @@
 <tv date="20250305223647 +0800">
   <channel id="BloombergTV">
     <display-name lang="zh">BloombergTV</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png"/>
   </channel>
   <programme channel="BloombergTV" start="20250305010000 +0000" stop="20250305020000 +0000">
     <title lang="zh">Balance of Power: Special Coverage ahead of President Trumps Address(普)</title>
