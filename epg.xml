@@ -1,1383 +1,1376 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "xmltv.dtd">
-<tv date="20250305161549 +0800" generator-info-name="EPG Generator">
+<tv date="20250305161549 +0800">
   <channel id="369234">
     <display-name>BBC News</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611154043536929_80.jpg"/>
   </channel>
   <programme start="20250305000000 +0000" stop="20250305003000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305003000 +0000" stop="20250305010000 +0000" channel="369234">
     <title lang="zh">HARDtalk</title>
     <desc lang="zh">In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
-
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme> 
   <programme start="20250305010000 +0000" stop="20250305013000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305013000 +0000" stop="20250305014500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305014500 +0000" stop="20250305020000 +0000" channel="369234">
     <title lang="zh">Sportsday</title>
     <desc lang="zh">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305020000 +0000" stop="20250305023000 +0000" channel="369234">
     <title lang="zh">Newsday</title>
     <desc lang="zh">Live from Singapore, the latest international news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305023000 +0000" stop="20250305024500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305024500 +0000" stop="20250305030000 +0000" channel="369234">
     <title lang="zh">Sportsday (r)</title>
     <desc lang="zh">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305030000 +0000" stop="20250305033000 +0000" channel="369234">
     <title lang="zh">Newsday</title>
     <desc lang="zh">Live from Singapore, the latest international news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305033000 +0000" stop="20250305034500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305034500 +0000" stop="20250305040000 +0000" channel="369234">
     <title lang="zh">Sportsday (r)</title>
     <desc lang="zh">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305040000 +0000" stop="20250305043000 +0000" channel="369234">
     <title lang="zh">Newsday</title>
     <desc lang="zh">Live from Singapore, the latest international news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305043000 +0000" stop="20250305044500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305044500 +0000" stop="20250305050000 +0000" channel="369234">
     <title lang="zh">Sportsday (r)</title>
     <desc lang="zh">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305050000 +0000" stop="20250305053000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305053000 +0000" stop="20250305060000 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305060000 +0000" stop="20250305063000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305063000 +0000" stop="20250305070000 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305070000 +0000" stop="20250305073000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305073000 +0000" stop="20250305080000 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305080000 +0000" stop="20250305083000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305090000 +0000" stop="20250305093000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305093000 +0000" stop="20250305100000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305100000 +0000" stop="20250305103000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305103000 +0000" stop="20250305110000 +0000" channel="369234">
     <title lang="zh">HARDtalk (r)</title>
     <desc lang="zh">In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305110000 +0000" stop="20250305113000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305113000 +0000" stop="20250305114500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305114500 +0000" stop="20250305120000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305120000 +0000" stop="20250305123000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305123000 +0000" stop="20250305130000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305130000 +0000" stop="20250305133000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305133000 +0000" stop="20250305140000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305140000 +0000" stop="20250305143000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305143000 +0000" stop="20250305144500 +0000" channel="369234">
     <title lang="zh">Business Today - NYSE Opening Bell</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305144500 +0000" stop="20250305150000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305150000 +0000" stop="20250305153000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305153000 +0000" stop="20250305160000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305160000 +0000" stop="20250305163000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305163000 +0000" stop="20250305164500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305164500 +0000" stop="20250305170000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305170000 +0000" stop="20250305173000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305173000 +0000" stop="20250305180000 +0000" channel="369234">
     <title lang="zh">Focus on Africa</title>
     <desc lang="zh">The biggest African and international stories from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305180000 +0000" stop="20250305183000 +0000" channel="369234">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc lang="zh">Watch the best of the BBC's journalism from around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305183000 +0000" stop="20250305190000 +0000" channel="369234">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc lang="zh">Watch the best of the BBC's journalism from around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305190000 +0000" stop="20250305193000 +0000" channel="369234">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc lang="zh">Watch the best of the BBC's journalism from around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305193000 +0000" stop="20250305200000 +0000" channel="369234">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc lang="zh">Watch the best of the BBC's journalism from around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305200000 +0000" stop="20250305203000 +0000" channel="369234">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc lang="zh">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305203000 +0000" stop="20250305210000 +0000" channel="369234">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc lang="zh">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305210000 +0000" stop="20250305213000 +0000" channel="369234">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc lang="zh">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305213000 +0000" stop="20250305220000 +0000" channel="369234">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc lang="zh">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305220000 +0000" stop="20250305223000 +0000" channel="369234">
     <title lang="zh">BBC World News America</title>
     <desc lang="zh">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305223000 +0000" stop="20250305230000 +0000" channel="369234">
     <title lang="zh">HARDtalk (r)</title>
     <desc lang="zh">In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305230000 +0000" stop="20250306000000 +0000" channel="369234">
     <title lang="zh">BBC World News America</title>
     <desc lang="zh">In-depth reports on the major US, UK and international news of the day presented from Washington DC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306000000 +0000" stop="20250306003000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306003000 +0000" stop="20250306010000 +0000" channel="369234">
     <title lang="zh">HARDtalk</title>
     <desc lang="zh">In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306010000 +0000" stop="20250306013000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306013000 +0000" stop="20250306014500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306014500 +0000" stop="20250306020000 +0000" channel="369234">
     <title lang="zh">Sportsday</title>
     <desc lang="zh">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306020000 +0000" stop="20250306023000 +0000" channel="369234">
     <title lang="zh">Newsday</title>
     <desc lang="zh">Live from Singapore, the latest international news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306023000 +0000" stop="20250306024500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306024500 +0000" stop="20250306030000 +0000" channel="369234">
     <title lang="zh">Sportsday (r)</title>
     <desc lang="zh">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306030000 +0000" stop="20250306033000 +0000" channel="369234">
     <title lang="zh">Newsday</title>
     <desc lang="zh">Live from Singapore, the latest international news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306033000 +0000" stop="20250306034500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306034500 +0000" stop="20250306040000 +0000" channel="369234">
     <title lang="zh">Sportsday (r)</title>
     <desc lang="zh">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306040000 +0000" stop="20250306043000 +0000" channel="369234">
     <title lang="zh">Newsday</title>
     <desc lang="zh">Live from Singapore, the latest international news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306043000 +0000" stop="20250306044500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306044500 +0000" stop="20250306050000 +0000" channel="369234">
     <title lang="zh">Sportsday (r)</title>
     <desc lang="zh">A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306050000 +0000" stop="20250306053000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306053000 +0000" stop="20250306060000 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306060000 +0000" stop="20250306063000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306063000 +0000" stop="20250306070000 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306070000 +0000" stop="20250306073000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306073000 +0000" stop="20250306080000 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306080000 +0000" stop="20250306083000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306083000 +0000" stop="20250306090000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306090000 +0000" stop="20250306093000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306093000 +0000" stop="20250306100000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306100000 +0000" stop="20250306103000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306103000 +0000" stop="20250306110000 +0000" channel="369234">
     <title lang="zh">HARDtalk (r)</title>
     <desc lang="zh">In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306110000 +0000" stop="20250306113000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306113000 +0000" stop="20250306114500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306114500 +0000" stop="20250306120000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306120000 +0000" stop="20250306123000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306123000 +0000" stop="20250306130000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306130000 +0000" stop="20250306133000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306133000 +0000" stop="20250306140000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306140000 +0000" stop="20250306143000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306143000 +0000" stop="20250306144500 +0000" channel="369234">
     <title lang="zh">Business Today - NYSE Opening Bell</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306144500 +0000" stop="20250306150000 +0000" channel="369234">
     <title lang="zh">BBC News Now</title>
     <desc lang="zh">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306150000 +0000" stop="20250306153000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306153000 +0000" stop="20250306160000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306160000 +0000" stop="20250306163000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306163000 +0000" stop="20250306164500 +0000" channel="369234">
     <title lang="zh">Business Today</title>
     <desc lang="zh">Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306164500 +0000" stop="20250306170000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306170000 +0000" stop="20250306173000 +0000" channel="369234">
     <title lang="zh">Verified Live</title>
     <desc lang="zh">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306173000 +0000" stop="20250306180000 +0000" channel="369234">
     <title lang="zh">Focus on Africa</title>
     <desc lang="zh">The biggest African and international stories from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306180000 +0000" stop="20250306183000 +0000" channel="369234">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc lang="zh">Watch the best of the BBC's journalism from around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306183000 +0000" stop="20250306190000 +0000" channel="369234">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc lang="zh">Watch the best of the BBC's journalism from around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306190000 +0000" stop="20250306193000 +0000" channel="369234">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc lang="zh">Watch the best of the BBC's journalism from around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306193000 +0000" stop="20250306200000 +0000" channel="369234">
     <title lang="zh">The World Today with Maryam Moshiri</title>
     <desc lang="zh">Watch the best of the BBC's journalism from around the world.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306200000 +0000" stop="20250306203000 +0000" channel="369234">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc lang="zh">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306203000 +0000" stop="20250306210000 +0000" channel="369234">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc lang="zh">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306210000 +0000" stop="20250306213000 +0000" channel="369234">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc lang="zh">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306213000 +0000" stop="20250306220000 +0000" channel="369234">
     <title lang="zh">The Context with Christian Fraser</title>
     <desc lang="zh">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306220000 +0000" stop="20250306223000 +0000" channel="369234">
     <title lang="zh">BBC World News America</title>
     <desc lang="zh">In-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306223000 +0000" stop="20250306230000 +0000" channel="369234">
     <title lang="zh">HARDtalk (r)</title>
     <desc lang="zh">In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306230000 +0000" stop="20250307000000 +0000" channel="369234">
     <title lang="zh">BBC World News America</title>
     <desc lang="zh">In-depth reports on the major US, UK and international news of the day presented from Washington DC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250307000000 +0000" stop="20250307030000 +0000" channel="369234">
     <title lang="zh">BBC News</title>
     <desc lang="zh">The latest news from the BBC.</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <channel id="370177">
     <display-name>中天新聞台</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110909545808_36.png"/>
   </channel>
   <programme start="20250305000000 +0000" stop="20250305010000 +0000" channel="370177">
     <title lang="zh">0800中天晨報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305010000 +0000" stop="20250305020000 +0000" channel="370177">
     <title lang="zh">0900中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305020000 +0000" stop="20250305030000 +0000" channel="370177">
     <title lang="zh">1000中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305030000 +0000" stop="20250305040000 +0000" channel="370177">
     <title lang="zh">1100中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305040000 +0000" stop="20250305050000 +0000" channel="370177">
     <title lang="zh">1200午間新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305050000 +0000" stop="20250305060000 +0000" channel="370177">
     <title lang="zh">1300午間新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305060000 +0000" stop="20250305070000 +0000" channel="370177">
     <title lang="zh">1400大新聞大爆卦</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305070000 +0000" stop="20250305080000 +0000" channel="370177">
     <title lang="zh">1500大新聞大爆卦</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305080000 +0000" stop="20250305090000 +0000" channel="370177">
     <title lang="zh">1600中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="370177">
     <title lang="zh">1700中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="370177">
     <title lang="zh">中天辣晚報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305110000 +0000" stop="20250305120000 +0000" channel="370177">
     <title lang="zh">中天辣晚報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305120000 +0000" stop="20250305130000 +0000" channel="370177">
     <title lang="zh">頭條開講</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305130000 +0000" stop="20250305140000 +0000" channel="370177">
     <title lang="zh">頭條開講</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305140000 +0000" stop="20250305150000 +0000" channel="370177">
     <title lang="zh">中天SUPER夜線新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305150000 +0000" stop="20250305160000 +0000" channel="370177">
     <title lang="zh">全球大視野</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="370177">
     <title lang="zh">中天辣晚報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305170000 +0000" stop="20250305180000 +0000" channel="370177">
     <title lang="zh">中天辣晚報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305180000 +0000" stop="20250305190000 +0000" channel="370177">
     <title lang="zh">頭條開講(重)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305190000 +0000" stop="20250305200000 +0000" channel="370177">
     <title lang="zh">頭條開講(重)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305200000 +0000" stop="20250305210000 +0000" channel="370177">
     <title lang="zh">中天SUPER夜線新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305210000 +0000" stop="20250305220000 +0000" channel="370177">
     <title lang="zh">全球大視野(重)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305220000 +0000" stop="20250305230000 +0000" channel="370177">
     <title lang="zh">0600中天晨報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305230000 +0000" stop="20250306000000 +0000" channel="370177">
     <title lang="zh">0700中天晨報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306000000 +0000" stop="20250306010000 +0000" channel="370177">
     <title lang="zh">0800中天晨報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306010000 +0000" stop="20250306020000 +0000" channel="370177">
     <title lang="zh">0900中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306020000 +0000" stop="20250306030000 +0000" channel="370177">
     <title lang="zh">1000中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306030000 +0000" stop="20250306040000 +0000" channel="370177">
     <title lang="zh">1100中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306040000 +0000" stop="20250306050000 +0000" channel="370177">
     <title lang="zh">1200午間新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306050000 +0000" stop="20250306060000 +0000" channel="370177">
     <title lang="zh">1300午間新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306060000 +0000" stop="20250306070000 +0000" channel="370177">
     <title lang="zh">1400大新聞大爆卦</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306070000 +0000" stop="20250306080000 +0000" channel="370177">
     <title lang="zh">1500大新聞大爆卦</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306080000 +0000" stop="20250306090000 +0000" channel="370177">
     <title lang="zh">1600中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306090000 +0000" stop="20250306100000 +0000" channel="370177">
     <title lang="zh">1700中天新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306100000 +0000" stop="20250306110000 +0000" channel="370177">
     <title lang="zh">中天辣晚報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306110000 +0000" stop="20250306120000 +0000" channel="370177">
     <title lang="zh">中天辣晚報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306120000 +0000" stop="20250306130000 +0000" channel="370177">
     <title lang="zh">頭條開講</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306130000 +0000" stop="20250306140000 +0000" channel="370177">
     <title lang="zh">頭條開講</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306140000 +0000" stop="20250306150000 +0000" channel="370177">
     <title lang="zh">中天SUPER夜線新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306150000 +0000" stop="20250306160000 +0000" channel="370177">
     <title lang="zh">全球大視野</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306160000 +0000" stop="20250306170000 +0000" channel="370177">
     <title lang="zh">中天辣晚報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306170000 +0000" stop="20250306180000 +0000" channel="370177">
     <title lang="zh">中天辣晚報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306180000 +0000" stop="20250306190000 +0000" channel="370177">
     <title lang="zh">頭條開講(重)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306190000 +0000" stop="20250306200000 +0000" channel="370177">
     <title lang="zh">頭條開講(重)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306200000 +0000" stop="20250306210000 +0000" channel="370177">
     <title lang="zh">中天SUPER夜線新聞</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306210000 +0000" stop="20250306220000 +0000" channel="370177">
     <title lang="zh">全球大視野(重)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306220000 +0000" stop="20250306230000 +0000" channel="370177">
     <title lang="zh">0600中天晨報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306230000 +0000" stop="20250307000000 +0000" channel="370177">
     <title lang="zh">0700中天晨報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250307000000 +0000" stop="20250307030000 +0000" channel="370177">
     <title lang="zh">0800中天晨報</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <channel id="369321">
     <display-name>CNN</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/11/20240611150128128782_75.png"/>
   </channel>
   <programme start="20250305000000 +0000" stop="20250305003000 +0000" channel="369321">
     <title lang="zh">Erin Burnett OutFront</title>
     <desc lang="zh">Erin Burnett OutFront: Tuesday, March 4, 2025 7PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305003000 +0000" stop="20250305010000 +0000" channel="369321">
     <title lang="zh">Erin Burnett OutFront</title>
     <desc lang="zh">Erin Burnett OutFront: Tuesday, March 4, 2025 7PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305010000 +0000" stop="20250305013000 +0000" channel="369321">
     <title lang="zh">Anderson Cooper 360</title>
     <desc lang="zh">Anderson Cooper 360: Tuesday, March 4, 2025 8PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305013000 +0000" stop="20250305020000 +0000" channel="369321">
     <title lang="zh">Anderson Cooper 360</title>
     <desc lang="zh">Anderson Cooper 360: Tuesday, March 4, 2025 8PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305020000 +0000" stop="20250305023000 +0000" channel="369321">
     <title lang="zh">The Source</title>
     <desc lang="zh">The Source: Tuesday, March 4, 2025 9PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305023000 +0000" stop="20250305030000 +0000" channel="369321">
     <title lang="zh">The Source</title>
     <desc lang="zh">The Source: Tuesday, March 4, 2025 9PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305030000 +0000" stop="20250305033000 +0000" channel="369321">
     <title lang="zh">CNN NewsNight</title>
     <desc lang="zh">CNN NewsNight: Tuesday, March 4, 2025 10PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305033000 +0000" stop="20250305040000 +0000" channel="369321">
     <title lang="zh">CNN NewsNight</title>
     <desc lang="zh">CNN NewsNight: Tuesday, March 4, 2025 10PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305040000 +0000" stop="20250305043000 +0000" channel="369321">
     <title lang="zh">Laura Coates Live</title>
     <desc lang="zh">Laura Coates Live: Tuesday, March 4, 2025 11PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305043000 +0000" stop="20250305050000 +0000" channel="369321">
     <title lang="zh">Laura Coates Live</title>
     <desc lang="zh">Laura Coates Live: Tuesday, March 4, 2025 11PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305050000 +0000" stop="20250305053000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 12am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305053000 +0000" stop="20250305060000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 12am ET/World Sport: Wednesday, March 5, 2025 1245am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305060000 +0000" stop="20250305063000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 1am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305063000 +0000" stop="20250305070000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 1am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305070000 +0000" stop="20250305073000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 2am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305073000 +0000" stop="20250305080000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 2am ET/World Sport: Wednesday, March 5, 2025 1245am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305080000 +0000" stop="20250305083000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 3am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305083000 +0000" stop="20250305090000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 3am ET/Marketplace Middle East: Marketplace Middle East March 2025</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305090000 +0000" stop="20250305093000 +0000" channel="369321">
     <title lang="zh">Amanpour</title>
     <desc lang="zh">Amanpour: Tuesday, March 4, 2025 1pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305093000 +0000" stop="20250305100000 +0000" channel="369321">
     <title lang="zh">Amanpour</title>
     <desc lang="zh">Amanpour: Tuesday, March 4, 2025 1pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305100000 +0000" stop="20250305103000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 5am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305103000 +0000" stop="20250305110000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 5am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305110000 +0000" stop="20250305113000 +0000" channel="369321">
     <title lang="zh">CNN This Morning</title>
     <desc lang="zh">CNN This Morning: Wednesday, March 5, 2025 6AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305113000 +0000" stop="20250305120000 +0000" channel="369321">
     <title lang="zh">CNN This Morning</title>
     <desc lang="zh">CNN This Morning: Wednesday, March 5, 2025 6AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305120000 +0000" stop="20250305123000 +0000" channel="369321">
     <title lang="zh">CNN News Central</title>
     <desc lang="zh">CNN News Central: Wednesday, March 5, 2025 7AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305123000 +0000" stop="20250305130000 +0000" channel="369321">
     <title lang="zh">CNN News Central</title>
     <desc lang="zh">CNN News Central: Wednesday, March 5, 2025 7AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305130000 +0000" stop="20250305133000 +0000" channel="369321">
     <title lang="zh">CNN News Central</title>
     <desc lang="zh">CNN News Central: Wednesday, March 5, 2025 8AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305133000 +0000" stop="20250305140000 +0000" channel="369321">
     <title lang="zh">World Sport</title>
     <desc lang="zh">World Sport: Wednesday, March 5, 2025 830am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305140000 +0000" stop="20250305143000 +0000" channel="369321">
     <title lang="zh">Connect the World</title>
     <desc lang="zh">Connect the World: Wednesday, March 5, 2025 9am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305143000 +0000" stop="20250305150000 +0000" channel="369321">
     <title lang="zh">Connect the World</title>
     <desc lang="zh">Connect the World: Wednesday, March 5, 2025 9am ET/World Sport: Wednesday, March 5, 2025 945am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305150000 +0000" stop="20250305153000 +0000" channel="369321">
     <title lang="zh">Connect the World</title>
     <desc lang="zh">Connect the World: Wednesday, March 5, 2025 10am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305153000 +0000" stop="20250305160000 +0000" channel="369321">
     <title lang="zh">Connect the World</title>
     <desc lang="zh">Connect the World: Wednesday, March 5, 2025 10am ET/Marketplace Middle East: Marketplace Middle East March 2025</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305160000 +0000" stop="20250305163000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 11am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305163000 +0000" stop="20250305170000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 11am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305170000 +0000" stop="20250305173000 +0000" channel="369321">
     <title lang="zh">One World</title>
     <desc lang="zh">One World: Wednesday, March 5, 2025 12pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305173000 +0000" stop="20250305180000 +0000" channel="369321">
     <title lang="zh">One World</title>
     <desc lang="zh">One World: Wednesday, March 5, 2025 12pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305180000 +0000" stop="20250305183000 +0000" channel="369321">
     <title lang="zh">Amanpour</title>
     <desc lang="zh">Amanpour: Wednesday, March 5, 2025 1pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305183000 +0000" stop="20250305190000 +0000" channel="369321">
     <title lang="zh">Amanpour</title>
     <desc lang="zh">Amanpour: Wednesday, March 5, 2025 1pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305190000 +0000" stop="20250305193000 +0000" channel="369321">
     <title lang="zh">Isa Soares Tonight</title>
     <desc lang="zh">Isa Soares Tonight: Wednesday, March 5, 2025 2pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305193000 +0000" stop="20250305200000 +0000" channel="369321">
     <title lang="zh">Isa Soares Tonight</title>
     <desc lang="zh">Isa Soares Tonight: Wednesday, March 5, 2025 2pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305200000 +0000" stop="20250305203000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 3pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305203000 +0000" stop="20250305210000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 3pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305210000 +0000" stop="20250305213000 +0000" channel="369321">
     <title lang="zh">Quest Means Business</title>
     <desc lang="zh">Quest Means Business: Wednesday, March 5, 2025 4pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305213000 +0000" stop="20250305220000 +0000" channel="369321">
     <title lang="zh">Quest Means Business</title>
     <desc lang="zh">Quest Means Business: Wednesday, March 5, 2025 4pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305220000 +0000" stop="20250305223000 +0000" channel="369321">
     <title lang="zh">The Lead</title>
     <desc lang="zh">The Lead: Wednesday, March 5, 2025 5PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305223000 +0000" stop="20250305230000 +0000" channel="369321">
     <title lang="zh">World Sport</title>
     <desc lang="zh">World Sport: Wednesday, March 5, 2025 530pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305230000 +0000" stop="20250305233000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 6pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305233000 +0000" stop="20250306000000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Wednesday, March 5, 2025 6pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306000000 +0000" stop="20250306003000 +0000" channel="369321">
     <title lang="zh">Erin Burnett OutFront</title>
     <desc lang="zh">Erin Burnett OutFront: Wednesday, March 5, 2025 7PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306003000 +0000" stop="20250306010000 +0000" channel="369321">
     <title lang="zh">Erin Burnett OutFront</title>
     <desc lang="zh">Erin Burnett OutFront: Wednesday, March 5, 2025 7PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306010000 +0000" stop="20250306013000 +0000" channel="369321">
     <title lang="zh">Anderson Cooper 360</title>
     <desc lang="zh">Anderson Cooper 360: Wednesday, March 5, 2025 8PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306013000 +0000" stop="20250306020000 +0000" channel="369321">
     <title lang="zh">Anderson Cooper 360</title>
     <desc lang="zh">Anderson Cooper 360: Wednesday, March 5, 2025 8PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306020000 +0000" stop="20250306023000 +0000" channel="369321">
     <title lang="zh">The Source</title>
     <desc lang="zh">The Source: Wednesday, March 5, 2025 9PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306023000 +0000" stop="20250306030000 +0000" channel="369321">
     <title lang="zh">The Source</title>
     <desc lang="zh">The Source: Wednesday, March 5, 2025 9PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306030000 +0000" stop="20250306033000 +0000" channel="369321">
     <title lang="zh">CNN NewsNight</title>
     <desc lang="zh">CNN NewsNight: Wednesday, March 5, 2025 10PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306033000 +0000" stop="20250306040000 +0000" channel="369321">
     <title lang="zh">CNN NewsNight</title>
     <desc lang="zh">CNN NewsNight: Wednesday, March 5, 2025 10PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306040000 +0000" stop="20250306043000 +0000" channel="369321">
     <title lang="zh">Laura Coates Live</title>
     <desc lang="zh">Laura Coates Live: Wednesday, March 5, 2025 11PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306043000 +0000" stop="20250306050000 +0000" channel="369321">
     <title lang="zh">Laura Coates Live</title>
     <desc lang="zh">Laura Coates Live: Wednesday, March 5, 2025 11PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306050000 +0000" stop="20250306053000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 12am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306053000 +0000" stop="20250306060000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 12am ET/World Sport: Thursday, March 6, 2025 1245am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306060000 +0000" stop="20250306063000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 1am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306063000 +0000" stop="20250306070000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 1am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306070000 +0000" stop="20250306073000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 2am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306073000 +0000" stop="20250306080000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 2am ET/World Sport: Thursday, March 6, 2025 1245am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306080000 +0000" stop="20250306083000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 3am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306083000 +0000" stop="20250306090000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 3am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306090000 +0000" stop="20250306093000 +0000" channel="369321">
     <title lang="zh">Amanpour</title>
     <desc lang="zh">Amanpour: Wednesday, March 5, 2025 1pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306093000 +0000" stop="20250306100000 +0000" channel="369321">
     <title lang="zh">Amanpour</title>
     <desc lang="zh">Amanpour: Wednesday, March 5, 2025 1pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306100000 +0000" stop="20250306103000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 5am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306103000 +0000" stop="20250306110000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 5am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306110000 +0000" stop="20250306113000 +0000" channel="369321">
     <title lang="zh">CNN This Morning</title>
     <desc lang="zh">CNN This Morning: Thursday, March 6, 2025 6AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306113000 +0000" stop="20250306120000 +0000" channel="369321">
     <title lang="zh">CNN This Morning</title>
     <desc lang="zh">CNN This Morning: Thursday, March 6, 2025 6AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306120000 +0000" stop="20250306123000 +0000" channel="369321">
     <title lang="zh">CNN News Central</title>
     <desc lang="zh">CNN News Central: Thursday, March 6, 2025 7AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306123000 +0000" stop="20250306130000 +0000" channel="369321">
     <title lang="zh">CNN News Central</title>
     <desc lang="zh">CNN News Central: Thursday, March 6, 2025 7AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306130000 +0000" stop="20250306133000 +0000" channel="369321">
     <title lang="zh">CNN News Central</title>
     <desc lang="zh">CNN News Central: Thursday, March 6, 2025 8AM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306133000 +0000" stop="20250306140000 +0000" channel="369321">
     <title lang="zh">World Sport</title>
     <desc lang="zh">World Sport: Thursday, March 6, 2025 830am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306140000 +0000" stop="20250306143000 +0000" channel="369321">
     <title lang="zh">Connect the World</title>
     <desc lang="zh">Connect the World: Thursday, March 6, 2025 9am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306143000 +0000" stop="20250306150000 +0000" channel="369321">
     <title lang="zh">Connect the World</title>
     <desc lang="zh">Connect the World: Thursday, March 6, 2025 9am ET/World Sport: Thursday, March 6, 2025 945am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306150000 +0000" stop="20250306153000 +0000" channel="369321">
     <title lang="zh">Connect the World</title>
     <desc lang="zh">Connect the World: Thursday, March 6, 2025 10am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306153000 +0000" stop="20250306160000 +0000" channel="369321">
     <title lang="zh">Connect the World</title>
     <desc lang="zh">Connect the World: Thursday, March 6, 2025 10am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306160000 +0000" stop="20250306163000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 11am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306163000 +0000" stop="20250306170000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 11am ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306170000 +0000" stop="20250306173000 +0000" channel="369321">
     <title lang="zh">One World</title>
     <desc lang="zh">One World: Thursday, March 6, 2025 12pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306173000 +0000" stop="20250306180000 +0000" channel="369321">
     <title lang="zh">One World</title>
     <desc lang="zh">One World: Thursday, March 6, 2025 12pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306180000 +0000" stop="20250306183000 +0000" channel="369321">
     <title lang="zh">Amanpour</title>
     <desc lang="zh">Amanpour: Thursday, March 6, 2025 1pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306183000 +0000" stop="20250306190000 +0000" channel="369321">
     <title lang="zh">Amanpour</title>
     <desc lang="zh">Amanpour: Thursday, March 6, 2025 1pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306190000 +0000" stop="20250306193000 +0000" channel="369321">
     <title lang="zh">Isa Soares Tonight</title>
     <desc lang="zh">Isa Soares Tonight: Thursday, March 6, 2025 2pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306193000 +0000" stop="20250306200000 +0000" channel="369321">
     <title lang="zh">Isa Soares Tonight</title>
     <desc lang="zh">Isa Soares Tonight: Thursday, March 6, 2025 2pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306200000 +0000" stop="20250306203000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 3pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306203000 +0000" stop="20250306210000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 3pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306210000 +0000" stop="20250306213000 +0000" channel="369321">
     <title lang="zh">Quest Means Business</title>
     <desc lang="zh">Quest Means Business: Thursday, March 6, 2025 4pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306213000 +0000" stop="20250306220000 +0000" channel="369321">
     <title lang="zh">Quest Means Business</title>
     <desc lang="zh">Quest Means Business: Thursday, March 6, 2025 4pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306220000 +0000" stop="20250306223000 +0000" channel="369321">
     <title lang="zh">The Lead</title>
     <desc lang="zh">The Lead: Thursday, March 6, 2025 5PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306223000 +0000" stop="20250306230000 +0000" channel="369321">
     <title lang="zh">World Sport</title>
     <desc lang="zh">World Sport: Thursday, March 6, 2025 530pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306230000 +0000" stop="20250306233000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 6pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306233000 +0000" stop="20250307000000 +0000" channel="369321">
     <title lang="zh">CNN Newsroom</title>
     <desc lang="zh">CNN Newsroom: Thursday, March 6, 2025 6pm ET</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250307000000 +0000" stop="20250307030000 +0000" channel="369321">
     <title lang="zh">Erin Burnett OutFront</title>
     <desc lang="zh">Erin Burnett OutFront: Thursday, March 6, 2025 7PM</desc>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <channel id="370178">
     <display-name>Bloomberg TV</display-name>
-    <icon src="https://epg.pw/media/images/epg/2024/06/12/20240612110916647263_66.png"/>
   </channel>
   <programme start="20250305010000 +0000" stop="20250305020000 +0000" channel="370178">
     <title lang="zh">Balance of Power: Special Coverage ahead of President Trumps Address(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305020000 +0000" stop="20250305040000 +0000" channel="370178">
     <title lang="zh">President Donald Trumps Joint Address to Congress(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305040000 +0000" stop="20250305060000 +0000" channel="370178">
     <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305060000 +0000" stop="20250305070000 +0000" channel="370178">
     <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305070000 +0000" stop="20250305090000 +0000" channel="370178">
     <title lang="zh">Bloomberg: The Opening Trade(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305090000 +0000" stop="20250305100000 +0000" channel="370178">
     <title lang="zh">The Pulse with Francine Lacqua(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305100000 +0000" stop="20250305110000 +0000" channel="370178">
     <title lang="zh">Bloomberg Brief(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305110000 +0000" stop="20250305140000 +0000" channel="370178">
     <title lang="zh">Bloomberg Surveillance(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305140000 +0000" stop="20250305160000 +0000" channel="370178">
     <title lang="zh">Bloomberg Open Interest(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305160000 +0000" stop="20250305170000 +0000" channel="370178">
     <title lang="zh">Bloomberg Technology(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305170000 +0000" stop="20250305180000 +0000" channel="370178">
     <title lang="zh">Bloomberg Markets(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305180000 +0000" stop="20250305190000 +0000" channel="370178">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305190000 +0000" stop="20250305200000 +0000" channel="370178">
     <title lang="zh">Bloomberg BusinessWeek(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305200000 +0000" stop="20250305220000 +0000" channel="370178">
     <title lang="zh">Bloomberg The Close(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305220000 +0000" stop="20250305230000 +0000" channel="370178">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250305230000 +0000" stop="20250306010000 +0000" channel="370178">
     <title lang="zh">Bloomberg The Asia Trade(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306010000 +0000" stop="20250306030000 +0000" channel="370178">
     <title lang="zh">Bloomberg: The China Show(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306030000 +0000" stop="20250306040000 +0000" channel="370178">
     <title lang="zh">Insight with Haslinda Amin(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306040000 +0000" stop="20250306060000 +0000" channel="370178">
     <title lang="zh">Bloomberg Horizons Middle East   Africa(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306060000 +0000" stop="20250306070000 +0000" channel="370178">
     <title lang="zh">Bloomberg Daybreak: Europe(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306070000 +0000" stop="20250306090000 +0000" channel="370178">
     <title lang="zh">Bloomberg: The Opening Trade(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306090000 +0000" stop="20250306100000 +0000" channel="370178">
     <title lang="zh">The Pulse with Francine Lacqua(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306100000 +0000" stop="20250306110000 +0000" channel="370178">
     <title lang="zh">Bloomberg Brief(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306110000 +0000" stop="20250306113000 +0000" channel="370178">
     <title lang="zh">The David Rubenstein Show(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306113000 +0000" stop="20250306120000 +0000" channel="370178">
     <title lang="zh">Davos 2025: Risks and Opportunities(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306120000 +0000" stop="20250306140000 +0000" channel="370178">
     <title lang="zh">Bloomberg Surveillance(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306140000 +0000" stop="20250306160000 +0000" channel="370178">
     <title lang="zh">Bloomberg Open Interest(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306160000 +0000" stop="20250306170000 +0000" channel="370178">
     <title lang="zh">Bloomberg Technology(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306170000 +0000" stop="20250306180000 +0000" channel="370178">
     <title lang="zh">Bloomberg Markets(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306180000 +0000" stop="20250306190000 +0000" channel="370178">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306190000 +0000" stop="20250306200000 +0000" channel="370178">
     <title lang="zh">Bloomberg BusinessWeek(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306200000 +0000" stop="20250306220000 +0000" channel="370178">
     <title lang="zh">Bloomberg The Close(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306220000 +0000" stop="20250306230000 +0000" channel="370178">
     <title lang="zh">Bloomberg: Balance of Power(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
   <programme start="20250306230000 +0000" stop="20250307020000 +0000" channel="370178">
     <title lang="zh">Bloomberg The Asia Trade(普)</title>
-  <date>2025-03-05</date>
-</programme>
+    <date>2025-03-05</date>
+  </programme>
 </tv>
