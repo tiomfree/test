@@ -9,7 +9,6 @@
   <programme start="20250305010000 +0000" stop="20250305020000 +0000" channel="370177">
       <title lang="zh">0900中天新聞</title>
     <date>2025-03-05</date>
-      <date>2025-03-05</date>
   </programme>
     <programme start="20250305020000 +0000" stop="20250305030000 +0000" channel="370177">
       <title lang="zh">1000中天新聞</title>
@@ -196,7 +195,7 @@
       <title lang="zh">0700中天晨報</title>
       <date>2025-03-06</date>
   </programme>
-  <programme start="20250307000000 +0000" stop="20250307030000 +0000" channel="370177">
+  <programme start="20250307000000 +0000" stop="20250307010000 +0000" channel="370177">
       <title lang="zh">0800中天晨報</title>
       <date>2025-03-07</date>
   </programme>
