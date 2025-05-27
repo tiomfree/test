@@ -1,0 +1,177 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png" group-title="境外广播",BBC World Service
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/npr.png" group-title="境外广播",n p r | News and Culture
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s249264/images/logod.png?t=1" group-title="境外广播",AP
+#EXTINF:-1 tvg-id="717" tvg-name="FoxNews" tvg-logo="https://cdn-profiles.tunein.com/s20431/images/logod.jpg?t=159405" group-title="境外广播",FOX News Radio
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s20407/images/logog.png?t=1" group-title="境外广播",CNN
+http://tunein.streamguys1.com/cnn-new
+#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://cdn-profiles.tunein.com/s292162/images/logod.png?t=636314" group-title="境外广播",CNN International
+http://tunein.ord.streamguys1.com/secure-CNNi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s108977d.png" group-title="境外广播",Al Jazeera
+http://tunein.ord.streamguys1.com/secure-aljazeera-english
+#EXTINF:-1 tvg-id="688" tvg-name="CNBCHongKong" tvg-logo="https://cdn-profiles.tunein.com/s110052/images/logog.png" group-title="境外广播",CNBC
+http://tunein.streamguys1.com/cnbc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s297990/images/logog.jpg?t=1" group-title="境外广播",MSNBC
+http://tunein.ord.streamguys1.com/secure-msnbc-premium
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://cdn-profiles.tunein.com/s47135/images/logod.png" group-title="境外广播",Bloomberg TV
+http://tunein.streamguys1.com/BloombergTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7VSzOFJjNvZYpojAS9wDVIzH1JtQiDvKl-ZjmXa6FWKarDO7bzF4xA2BI8_ogKFejWwU&usqp=CAU" group-title="境外广播",ESPN
+http://tunein.streamguys1.com/ESPNTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s25876g.png" group-title="境外广播",ESPN Radio
+http://tunein.streamguys1.com/ESPNRadio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/voa.png" group-title="境外广播",VOA Global English
+https://voaaudio-lh.akamaihd.net/i/PACKVOA161_352R@825053/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/voa.png" group-title="境外广播",VOA Newscasts
+https://voaaudio-lh.akamaihd.net/i/PACKVOA155_233L@824354/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc1.png" group-title="境外广播",BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc1xtra.png" group-title="境外广播",BBC Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc1dance.png" group-title="境外广播",BBC Radio 1 Dance
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc1relax.png" group-title="境外广播",BBC Radio 1 relax
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc2.png" group-title="境外广播",BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc3.png" group-title="境外广播",BBC Radio 3
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc4.png" group-title="境外广播",BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc4extra.png" group-title="境外广播",BBC Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc5.png" group-title="境外广播",BBC Radio 5 live
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/bbc6.png" group-title="境外广播",BBC Radio 6
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/popradio.png" group-title="境外广播",POP Radio 台北流行广播电台
+http://149.129.100.78:8000/popradio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/popradio.png" group-title="境外广播",POP Radio 好听广播电台
+http://149.129.100.78:8000/pop907
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/aline.png" group-title="境外广播",A-line Radio 网路音乐台
+http://radio.apple-line.com:987/radio-data/alinePlayer.php
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hitfm.png" group-title="境外广播",HitFM联播网|台北之音
+http://149.129.100.78:8000/hitfm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/全国广播.png" group-title="境外广播",M-Radio全国广播
+http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ROC_Police_Broadcasting_Service_Seal.svg/440px-ROC_Police_Broadcasting_Service_Seal.svg.png" group-title="境外广播",全国治安交通网
+http://stream.pbs.gov.tw:1935/live/mp3:PBS/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="境外广播",CityFM|城市广播
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="境外广播",CityFM|台北健康
+http://fm901.cityfm.tw:8080/901.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="境外广播",CityFM|台南之音
+http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/cityfm.png" group-title="境外广播",CityFM|大苗栗广播
+http://fm983.cityfm.tw:8080/983.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/hiradio.png" group-title="境外广播",hi radio
+http://stream.rcs.revma.com/m5vcf26np7zuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveradio889.com.tw/ecms102077/store/AdImage/最爱正义.jpg" group-title="境外广播",正义电台
+http://211.20.119.103:8081
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.loveradio889.com.tw/ecms102077/store/AdImage/sunnyradio.jpg" group-title="境外广播",太阳电台
+http://211.20.119.102:8081
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.aifm.net.my/images/xlogo-aifmradioonlinemalaysia.png.pagespeed.ic.fqnHxUtFW5.png" group-title="境外广播",Ai FM
+https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台北广播电台.png" group-title="境外广播",台北广播电台FM93.1
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台北广播电台.png" group-title="境外广播",台北广播电台AM1134
+https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/am/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="境外广播",飞特电台
+https://phate.io/listen.ogg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="境外广播",中广音乐网
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中广新闻网.png" group-title="境外广播",中广新闻网
+http://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/中广流行网.png" group-title="境外广播",中广流行网
+http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/news98新闻台.png" group-title="境外广播",News98新闻台
+http://stream.rcs.revma.com/55tyxsy4qtzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/飞碟电台.png" group-title="境外广播",飞碟电台
+http://stream.rcs.revma.com/em90w4aeewzuv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/澳门电台.png" group-title="境外广播",澳门电台
+https://live4.tdm.com.mo/live/_definst_/rch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/宝岛联播网.png" group-title="境外广播",宝岛联播网|宝岛新声
+http://stream.superfm99-1.com.tw:8555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/大千电台.png" group-title="境外广播",宝岛联播网|大千电台
+http://stream.superfm99-1.com.tw:8554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/rti.png" group-title="境外广播",RTI国语
+https://www.soundvideostar.com/live/_definst_/rti3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/rti.png" group-title="境外广播",RTI音乐
+https://www.soundvideostar.com/live/_definst_/rti4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/国立教育电台.png" group-title="境外广播",国立教育电台
+http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/台湾古典音乐台.png" group-title="境外广播",台湾古典音乐台
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/kissradio.png" group-title="境外广播",Kiss Radio
+http://api.kiss.com.tw/test/hichannel2.php?api=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/capital958.png" group-title="境外广播",CAPITAL 958
+https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/988.png" group-title="境外广播",988友声有色
+http://23023.live.streamtheworld.com/988_FMAAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/my.png" group-title="境外广播",MY
+https://astro1.rastream.com/myfm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/onefm.png" group-title="境外广播",one FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/好fm.png" group-title="境外广播",好FM
+https://22283.live.streamtheworld.com/HAO_963AAC.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/yes933.png" group-title="境外广播",YES 933
+https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/love972.png" group-title="境外广播",LOVE 972
+https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/ufm1003.png" group-title="境外广播",UFM 1003
+https://22243.live.streamtheworld.com/UFM_1003AAC_SC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/RFI_logo_2013.svg/1200px-RFI_logo_2013.svg.png" group-title="境外广播",法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sputnik_logo.svg/220px-Sputnik_logo.svg.png" group-title="境外广播",俄罗斯卫星通讯社
+http://icecast-ruvr.cdnvideo.ru/rian.voicechi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/美国之音.png" group-title="境外广播",美国之音
+https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://live.fanmingming.com/radio/自由亚洲电台.png" group-title="境外广播",自由亚洲电台
+https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.melisten.sg/api/blob/10711300/3600973250882fa11b0b01b71a9d6e5d/cna938-logoImage.png" group-title="境外广播",CNA 938
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.kcrw.com/music/shows/eclectic24/@@images/square_image/giant-square" group-title="境外广播",Eclectic24
+https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i1.wp.com/vocalo.org/wp-content/uploads/2017/01/black_teal_square.png?resize=170%2C170&ssl=1" group-title="境外广播",VOCALO
+https://stream.wbez.org/vocalolinear
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/kShwWmQjbq.jpg" group-title="境外广播",n p r | WUNC
+http://216.246.39.189/wunc-source
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/74uqeZnXmV.png" group-title="境外广播",n p r | KJZZ
+http://kjzz.streamguys1.com/kjzz_aac_high
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner-radio.com/media/news/2017/01/11/4tq6n6zqwy.png" group-title="境外广播",n p r | WLRN
+https://hls.wlrn.mobi/live/WLRNFMAAC/live/WLRNFMAAC256/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s27410/images/logod.png" group-title="境外广播",n p r | WBEZ
+http://stream.wbez.org/wbezlinear
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://player.streamguys.com/hpm-news/sgplayer3/include/image/hpm_listenlive_app_news88-7.png" group-title="境外广播",n p r | HPM News
+http://stream.houstonpublicmedia.org/news-aac-256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s34350/images/logod.png" group-title="境外广播",n p r | MPR News
+http://nis.stream.publicradio.org/nis.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://media.npr.org/images/stations/nprone_logos/kcrw_fm.png" group-title="境外广播",n p r | KCRW News
+http://kcrw.streamguys1.com/kcrw_192k_mp3_news
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/8FHMcwz5yR.png" group-title="境外广播",n p r | WOSU
+http://wosu.streamguys1.com/NPR_256
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s34804g.png" group-title="境外广播",n p r | KQED
+http://hls.kqed.org/kqed/256/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s27111/images/logog.png" group-title="境外广播",n p r | WAMU
+http://hls-1.wamu.org/itunes/256/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/wqMpuP27HE.png" group-title="境外广播",n p r | WBUR
+http://wowza-stream.wbur.org/hls/smil:wbur.smil/hls/wbur256/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s34633/images/logog.jpg?t=154843" group-title="境外广播",n p r | KPBS
+http://kpbs-wowza.streamguys1.com/live/smil:kpbs.smil/live/kpbs256kaac.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s35962/images/logod.png?t=636270" group-title="境外广播",n p r | KUT
+http://kut-hls.streamguys1.com/kut1/256/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dbs.radioline.fr/pictures/radio_18d695eec54b624bc60502d504581c80/logo200.jpg?size=600" group-title="境外广播",n p r | CPR
+https://stream2.cprnetwork.org/2198_256.aac/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-profiles.tunein.com/s124949/images/logog.png?t=161850" group-title="境外广播",n p r | KWMU
+http://kwmu-flash.streamguys1.com/live/smil:kwmu1.smil/live/kwmu1-256k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rfep7y5qfkrj.png" group-title="境外广播",n p r | GPB
+http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/hrvzkrkuzlwl.webp" group-title="境外广播",n p r | WUWM
+http://wuwm.streamguys1.com/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/7GLKE4tq2Y.jpg" group-title="境外广播",n p r | NHPR
+http://205.234.238.46/nhpr-256-source.aac
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外广播",阿里郎电台(视频)
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="境外广播",阿里郎电台(音频)
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
+updateTime: 2025-02-02 05:14:49
