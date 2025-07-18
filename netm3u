@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/matthuisman/i.mjh.nz/blob/master/SamsungTVPlus/us.xml"
+#EXTINF:-1 tvg-id="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20250325T015110SQUARE.png" group-title="News & Opinion",BBC News
+http://91.132.145.228:5006/stream/samsung/bbc/master.m3u8?u=chenhp&p=8a3cf91b32fe87c7d221b283a316fe61d2f5f1134918334e30e7bcff8208b1fb
+#EXTINF:-1 tvg-id="USAJ4300005PJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20250325T020257SQUARE.png" group-title="News & Opinion",Yahoo Finance
+http://91.132.145.228:5006/stream/samsung/yahoofinance/master.m3u8?u=chenhp&p=8a3cf91b32fe87c7d221b283a316fe61d2f5f1134918334e30e7bcff8208b1fb
+#EXTINF:-1 tvg-id="USBB52000022Q" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB52000022Q_20241015T223528SQUARE.png" group-title="News & Opinion",Sky News
+http://91.132.145.228:5006/stream/samsung/skynews/master.m3u8?u=chenhp&p=8a3cf91b32fe87c7d221b283a316fe61d2f5f1134918334e30e7bcff8208b1fb
+#EXTINF:-1 tvg-id="USBB400000145" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB400000145_20240924T225013SQUARE.png" group-title="Sports & Outdoors",GOLFPASS
+http://91.132.145.228:5006/stream/samsung/golfpass/master.m3u8?u=chenhp&p=8a3cf91b32fe87c7d221b283a316fe61d2f5f1134918334e30e7bcff8208b1fb
+#EXTINF:-1 tvg-id="US400001M2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400001M2_20250616T221728SQUARE.png" group-title="Sports & Outdoors",PGA Tour
+https://jmp2.uk/sam-US400001M2.m3u8
+#EXTINF:-1 tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20250415T020925SQUARE.png" group-title="News",CNN
+http://91.132.145.228:5006/stream/samsung/cnn/master.m3u8?u=chenhp&p=8a3cf91b32fe87c7d221b283a316fe61d2f5f1134918334e30e7bcff8208b1fb
