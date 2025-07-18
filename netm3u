@@ -12,3 +12,5 @@ http://91.132.145.228:5006/stream/samsung/golfpass/master.m3u8?u=chenhp&p=8a3cf9
 https://jmp2.uk/sam-US400001M2.m3u8
 #EXTINF:-1 tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20250415T020925SQUARE.png" group-title="News",CNN
 http://91.132.145.228:5006/stream/samsung/cnn/master.m3u8?u=chenhp&p=8a3cf91b32fe87c7d221b283a316fe61d2f5f1134918334e30e7bcff8208b1fb
+#EXTINF:-1 tvg-id="GBBA3300033C2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20250107T022527SQUARE.png" group-title="News",Bloomberg TV+
+http://91.132.145.228:5006/stream/samsung/bloombergtv/master.m3u8?u=chenhp&p=8a3cf91b32fe87c7d221b283a316fe61d2f5f1134918334e30e7bcff8208b1fb
