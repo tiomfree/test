@@ -31,7 +31,8 @@ https://v2.yaoyao.me:5008/stream/top20/hbo2livetv/master.m3u8?u=admin&p=3535f9dc
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO 1" tvg-logo="https://epg.iill.top/logo/HBO.png" group-title="Movies", HBO 1
 https://v2.yaoyao.me:5008/stream/top20/hbolivetv/master.m3u8?u=admin&p=3535f9dcf62037ddd55341686fb856f925a7b345032482cf5a64cd9f047b4dab
 
-#EXTINF:-1 tvg-id="GBBA2200005ZA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20250107T022602SQUARE.png" group-title="Documentaries",History Hithttps://v2.yaoyao.me:5008/stream/top20/historyhit/master.m3u8?u=admin&p=3535f9dcf62037ddd55341686fb856f925a7b345032482cf5a64cd9f047b4dab
+#EXTINF:-1 tvg-id="GBBA2200005ZA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA2200005ZA_20250107T022602SQUARE.png" group-title="Documentaries",History Hit
+https://v2.yaoyao.me:5008/stream/top20/historyhit/master.m3u8?u=admin&p=3535f9dcf62037ddd55341686fb856f925a7b345032482cf5a64cd9f047b4dab
 
 #EXTINF:-1 tvg-id="US400001M2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400001M2_20250616T221728SQUARE.png" group-title="Sports",PGA Tour
 https://v2.yaoyao.me:5008/stream/top20/pgatour/master.m3u8?u=admin&p=3535f9dcf62037ddd55341686fb856f925a7b345032482cf5a64cd9f047b4dab
