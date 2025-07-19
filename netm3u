@@ -41,8 +41,6 @@ http://91.132.145.228:5006/stream/top20/skynews/master.m3u8?u=admin&p=3535f9dcf6
 
 #EXTINF:-1 tvg-id="Sky-Sports-Golf" tvg-name="Sky Sports Golf" tvg-logo="https://epg.iill.top/logo/Sky-Sports-Golf.png" group-title="Sports", Sky Sports Golf
 http://91.132.145.228:5006/stream/top20/skysportsgolf/master.m3u8?u=admin&p=3535f9dcf62037ddd55341686fb856f925a7b345032482cf5a64cd9f047b4dab
-https://net.yaoyao.me:5008/stream/top20/skysportsgolf/master.m3u8?u=admin&p=3535f9dcf62037ddd55341686fb856f925a7b345032482cf5a64cd9f047b4dab
-
 
 #EXTINF:-1 tvg-id="Sky-Sports-Football" tvg-name="Sky Sports Football" tvg-logo="https://epg.iill.top/logo/Sky-Sports-Football.png" group-title="Sports", Sky Sports Football
 http://91.132.145.228:5006/stream/top20/skysportsfootballlivetv/master.m3u8?u=admin&p=3535f9dcf62037ddd55341686fb856f925a7b345032482cf5a64cd9f047b4dab
