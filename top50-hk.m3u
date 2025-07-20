@@ -60,27 +60,27 @@ https://v2.yaoyao.me:5008/stream/top20/yahoofinance/master.m3u8?u=admin&p=3535f9
 
 
 #EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://epg.iill.top/logo/博斯网球.png" group-title="Sports",博斯網球台-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000001903&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000001903&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球一台" tvg-logo="https://epg.iill.top/logo/博斯高球1.png" group-title="Sports",博斯高球一台-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000001846&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000001846&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC NEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BBC1.png" group-title="News",BBC NEWS-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000001527&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000001527&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/BloombergTV.png" group-title="News",Bloomberg TV hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000002015&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000002015&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNN.png" group-title="News",CNN-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000002003&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000002003&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 頭條新聞台(HLN)" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CNN.png" group-title="News",CNN-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000002004&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000002004&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/History1.png" group-title="Documentaries",History-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000001859&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000001859&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="News",中天新聞台-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000001562&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000001562&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="古典音樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/classical.png" group-title="Movies",古典音樂台-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000001539&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000001539&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="News",民視新聞台-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000001533&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000001533&key=kaixi189&res=h
 #EXTINF:-1 tvg-id="龍華電影台" tvg-name="龍華電影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="Movies",龍華電影-hami
-https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5000/hami/OTT_LIVE_0000001840&key=kaixi189&res=h
+https://bro.yaoyao.me:5009/?url=http%3A//172.17.0.1%3A5099/hami/OTT_LIVE_0000001840&key=kaixi189&res=h
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="News",翡翠台字幕
 https://bro.yaoyao.me:5009/?url=http%3A//edge2.163189.xyz/o12.php%3Fid%3Dfct&key=kaixi189
