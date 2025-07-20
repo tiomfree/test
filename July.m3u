@@ -1,4 +1,14 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台",翡翠台字幕
+http://edge2.163189.xyz/o12.php?id=fct
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台",明珠台字幕
+http://edge2.163189.xyz/o12.php?id=mzt
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻",无线新闻01
+https://edge.163189.xyz/163189/wxxw
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯",凤凰资讯01
+https://edge.163189.xyz/163189/fhzx
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台",翡翠台
